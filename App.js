@@ -230,6 +230,6 @@ sortByRatingButton.addEventListener("click", async () => {
       renderMovies(changedData)
 })
 
-
+//update js
 
 
